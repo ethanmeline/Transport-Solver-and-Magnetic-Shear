@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Generated outputs (run the code to regenerate)
+outputs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
